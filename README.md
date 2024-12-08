@@ -4,7 +4,7 @@ Grid Scale - You can use the shortcuts plus (+) and minus (-) on the numpad to i
 Create Cubes - "Draw Cube" to activate the Add Cube tool / "Create 1x1 Cube" to create an 1x1 Cube with its bottom face on top of the grid.
 
 **Installation:**
-You can try using Blender's addon install dropdowns, or simply drop the folder inside the .../scripts/addons folder (probably in AppData).
+You can try using Blender's addon install dropdowns, or simply drop the folder inside the .../scripts/addons folder (probably in AppData\Roaming\Blender Foundation\Blender\x.x\scripts\addons).
 
 The grid system I'm currently using has: the *Unit System* set to "None"; In *Viewport Overlays* set "Subdivisions" to 1; The Add Cube's tool settings to *Depth:* Surface, *Orientation:* Default, *Snap to:* Default.
 
